@@ -1,0 +1,26 @@
+{
+  "name": "sass-and-bootstrap-project",
+  "version": "1.0.0",
+  "description": "Learning bootstrap v5 with sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass scss: --watch scss:css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn",
+    "sass"
+  ],
+  "author": "Charles Burton",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.51.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.7",
+    "bootstrap": "^5.1.3"
+  }
+}
